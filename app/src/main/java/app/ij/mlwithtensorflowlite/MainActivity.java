@@ -103,8 +103,10 @@ public class MainActivity extends AppCompatActivity {
             }
             String[] classes = {
                     "سالم",
-                    "دارای اشکال",
-                    "آفت پسیل"
+                    "کمبود پتاسیوم و فسفر",
+                    "کمبود پتاسیوم",
+                    "قارچ",
+                    "پسیل"
             };
             result.setText(classes[maxPos]);
 
